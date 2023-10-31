@@ -2,5 +2,5 @@
 
 - Очень простой код
 - Используется всего 3 оттенка
-- Я очень старался над этой [змейкой](https://maslovmaksim250808.github.io/Snake/index.html)
+- Я очень старался над этой [змейкой](https://maslovmaksim250808.github.io/Snake/index.html) :)
  
